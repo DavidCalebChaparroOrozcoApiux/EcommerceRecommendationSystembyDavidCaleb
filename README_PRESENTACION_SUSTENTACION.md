@@ -322,7 +322,7 @@ Para la EMPRESA:
 
 ---
 
-### SLIDE 7: PLANIFICACIÓN DEL PROYECTO 📅
+### SLIDE 7: PLANIFICACIÓN DEL PROYECTO 📅 IMPORTANTE
 
 ```
 TÍTULO: Roadmap de Implementación - 10 Meses
@@ -514,7 +514,7 @@ personalización inteligente para maximizar conversión"
 
 ---
 
-### SLIDE 11: SOLUCIÓN IMPLEMENTADA 🤖
+### SLIDE 11: SOLUCIÓN IMPLEMENTADA 🤖 (IMPORTANTE)
 
 ```
 TÍTULO: Sistema Multi-Algoritmo
@@ -561,7 +561,7 @@ MANEJO DE DESAFÍOS:
 
 ---
 
-### SLIDE 12: METODOLOGÍA CRISP-DM 🔄
+### SLIDE 12: METODOLOGÍA CRISP-DM 🔄 (IMPORTANTE)
 
 ```
 TÍTULO: Proceso de Desarrollo Seguido
@@ -622,7 +622,7 @@ en el notebook de Jupyter (requerimiento cumplido)
 
 ---
 
-### SLIDE 13: RESULTADOS TÉCNICOS 📈
+### SLIDE 13: RESULTADOS TÉCNICOS 📈 (IMPORTANTE)
 
 ```
 TÍTULO: Performance de Modelos
@@ -1214,4 +1214,3 @@ Si tienes tiempo, estas mejorarían la presentación:
 *Documento de sustentación creado: Octubre 2025*  
 *Candidato: David Caleb Chaparro Orozco*  
 *Versión: 1.0 - Específica para Prueba Técnica*
-
