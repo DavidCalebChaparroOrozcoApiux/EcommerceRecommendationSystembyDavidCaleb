@@ -277,3 +277,14 @@ En sistemas de recomendación con sparsity extrema
 (0.082%), estos números representan EXCELENTE
 performance según literatura académica.
 ```
+
+## 🎯 PREGUNTAS FRECUENTES Y RESPUESTAS
+
+### **P1: "¿Cuál de los dos proyectos es más fuerte?"**
+**R:** Ambos demuestran fortalezas diferentes. El Caso 1 (NER) muestra capacidad de diseño de producto completo y visión estratégica. El Caso 2 (RecSys) muestra implementación práctica y resultados medibles inmediatos. Juntos demuestran versatilidad.
+
+### **P3: "¿Por qué no usaste Deep Learning en el RecSys?"**
+**R:** Por alcance y eficiencia. Con 231K transacciones, los métodos tradicionales (SVD + CF) ofrecen excelente performance con menor complejidad.
+
+### **P4: "¿Cómo validarías estos sistemas en producción?"**
+**R:** A/B Testing. Para NER: piloto con 200 consultoras (10%), medir frecuencia de recompra vs grupo control. Para RecSys: split 50/50 de usuarios, medir CTR y conversión. En ambos casos, significancia estadística con p-value <0.05.
